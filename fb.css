@@ -1,0 +1,213 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+}
+.login{
+    width:50%;
+    float: left;
+    padding-top: 16px;
+    font-size: 12px
+}
+.logo-text{
+    color: white;
+    font-size: 42px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family:  Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: white;
+}
+.login-controls{
+    margin-left: 122px;
+}
+.forgotten{
+    color: #ffffff85;
+    font-size: 11px;
+    text-decoration: none;
+
+}
+.submit-button{
+    background:#4267b2;
+    color: white;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+.submit-button:hover{
+    background: #3b5998;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 125px;
+    padding-top: 65px;
+}
+.right-section{
+    width: 40%;
+     float: left;
+  
+    
+ 
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 100%;
+}
+.image{
+    width: 588px;
+    margin-left: -35px;
+    margin-top: 42px;
+}
+
+.para{
+    font-size: 26px;
+    font-weight: bold;
+}
+.signup{
+    
+    font-size: 36px;
+    margin-top: 5px;
+    margin-left: 4px;
+    font-weight: bold;
+    color: #333;
+}
+.free{
+    font-size:19px;
+    margin-bottom:20px;
+}
+.inputbody{
+    display: inline-block;
+  font-size: 18px;
+  padding: 8px 10px;
+  border: 1px solid #bdc7d8;
+  border-radius: 5px;
+  color:#333;
+  margin-bottom:10px;
+}
+.email{
+    display: inline-block;
+    font-size: 17px;
+    padding: 8px 10px;
+    border: 1px solid #bdc7d8;
+    border-radius: 5px;
+    color: #333;
+    margin-bottom: 10px;
+    margin-left: 1px;
+    width: 463px;
+    text-align: left;
+  }
+  .Birthday{
+    font-size:19px;
+    color:#141823;
+    margin-top:2px;
+    
+  
+    
+
+  }
+  .select{
+    margin-top: 5px;
+
+    display: inline-block;
+    height:30px;
+    font-size: 13px;
+    border: 1px solid #bdc7d8;
+    border-radius: 5px;
+    color: #141823;
+    
+
+    
+    }
+  .why{
+    font-size: 11px;
+ 
+    margin-right: 211px;
+    color: #3b5998;
+    width:150px;
+    cursor:pointer;
+    display:inline-block;
+  vertical-align: middle;
+  font-family: tahoma,verdana,arial,sans-serif;
+  }
+.why:hover{
+    text-decoration: underline;
+}
+
+.radio{
+    padding: 5px 0 5px 4px;
+    display: inline-block;
+    font-size: 19px;
+    font-family: tahoma,verdana,arial,sans-serif;
+   
+}
+.agree{
+    font-size: 11px;
+    color: #777;
+    width:316px;
+    font-family: tahoma,verdana,arial,sans-serif;
+    
+}
+
+.terms{
+    color:#3b5998;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  
+}
+
+.submit{
+    font-size: 19px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color:#fff;
+  min-width: 194px;
+  padding: 7px 20px;
+  text-align: center;
+ border-radius: 5px;
+  background: linear-gradient(#67ae55, #578843);
+  cursor:pointer;
+  border: 1px solid;
+  border-color: #3b6e22 #3b6e22 #2c5115;
+}
+.submit:hover{
+    background: -webkit-linear-gradient(#79bc64, #578843);
+}
+ .line{
+    margin-right: 30px;
+
+ }
+ 
+ .create{
+    
+       
+        color: #666;
+        font-size: 13px;
+        font-weight: bold;
+ }
+
+ .band{
+    color:#3b5998;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: tahoma,verdana,arial,sans-serif;
+ }
+
+ .band:hover{
+    text-decoration: underline;
+ }
